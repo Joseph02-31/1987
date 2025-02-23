@@ -66,7 +66,7 @@
     } else if (email === "Soukayna@Y.ally") {    
           textDiv.textContent = "Welcome Ms. Soukayna RAHMANI !"; 
          // vCard.style.display = "none";
-          pCard.style.display = "none";
+      //    pCard.style.display = "none";
           mCard.style.display = "none";
      } else if (email === "Jihane@M.kh") {    
           textDiv.textContent = "Welcome Ms. Maryama KHATABI !"; 
